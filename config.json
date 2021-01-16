@@ -1,12 +1,4 @@
 {
-
-    "token": "NzY1MTk5ODU3ODIzNjQ1NzA2.X4RV5g.pKhebOn4Cd9141ozBJW4DxoE_h8",
-
-    "ipAddress": "95.217.192.217",
-    "port": "25579",
-    "playersChannel": "799641850457489448",
-    "statusChannel": "799641921709539368",
-    "updateInterval": "5sec",
-
-    "prefix": "!"
+    "token" : "Nzk5NzA0NTg5MDYyMjQyMzM0.YAHc7w.-xYZztR-O9AaIw8lJuEecHkAmiQ",
+    "prefix" : "!"
 }
